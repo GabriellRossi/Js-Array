@@ -5,3 +5,8 @@ https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects
 
 MÉTODOS GENÉRICOS DE STRINGS:
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String#methods
+
+
+FUNÇÃO CALLBACK:
+
+https://developer.mozilla.org/pt-BR/docs/Glossary/Callback_function
